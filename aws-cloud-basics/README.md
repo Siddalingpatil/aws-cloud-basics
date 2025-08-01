@@ -1,6 +1,6 @@
 # ☁️ AWS Cloud Basics
 
-Welcome to **AWS Cloud Basics** — A beginner-friendly repository to understand the fundamentals of Amazon Web Services (AWS). This repo is maintained by **Siddaling Patil**, AWS & AI/ML Trainer at Microdegree-PDA.
+Welcome to **AWS Cloud Basics** — A beginner-friendly repository to understand the fundamentals of Amazon Web Services (AWS). This repo is maintained by **Siddaling Patil**, AWS & AI/ML Trainer .
 
 ---
 
